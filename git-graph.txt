@@ -1,0 +1,22 @@
+* e5f031f (HEAD -> main, origin/main) docs: Add changelog
+* d477d4a docs: Add GIT_JOURNEY.md
+| * a87ab7b (feature/another-feature) Bad commit
+|/  
+| * fc8230b (origin/feature/another-feature) feat: Add test feature
+|/  
+* 25ca46e (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 29bd626 feat: Add new feature
+* dd92dd6 docs: Add FAQ section
+| * badba20 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   586410e merge: Resolve all conflicts between main and conflict-simulator branch
+|\  
+| * d3dd9b2 (conflict-simulator) updating conflict-simulator
+* |   a976fa4 merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (origin/dev, instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
